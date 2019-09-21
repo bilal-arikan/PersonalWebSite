@@ -32,8 +32,8 @@ post_date: 2019-06-19 01:36:34
 <p style="text-align:center" class="has-medium-font-size"><strong>Some of My Experiences</strong><strong>:</strong></p>
 <!-- /wp:paragraph -->
 
-<p class="has-medium-font-size"><span style="color: #800000;">&nbsp; &nbsp; &nbsp;- I have information about CI / CD (Jenkins, Travis-ci, CodeMagic) and actively use in my projects,</span><br><span style="color: #800000;">&nbsp; &nbsp; &nbsp;- I have used Python language and Keras, Tensorflow, ZeroMQ, Selenium, Flask, PyMongo, PySQL, Kivy and many libraries in many projects.</span><br><span style="color: #800000;">&nbsp; &nbsp; &nbsp;- I have been using C # language with Unity projects for a long time. I also worked with FormApplications as an extra,</span><br><span style="color: #800000;">&nbsp; &nbsp; &nbsp;- Dart language and Flutter Framework is my favorite choice for mobile application development recently,</span><br><span style="color: #800000;">&nbsp; &nbsp; &nbsp;- I usually use Javascript to build background and API applications with NodeJs (I usually use express, socketio and mongodb libraries)</span><br><span style="color: #800000;">&nbsp; &nbsp; &nbsp;- I worked with Arduino and RaspberryPi for hobby purpose and support of some of my friends' projects.</span><br><span style="color: #800000;">&nbsp; &nbsp; &nbsp;- In my job and most of the my projects, I always try to write my code with minimum dependency and layered architectures.</span></p>
-<p></p>
+<p class="has-medium-font-size"><span style="color: #800000;">     - I have information about CI / CD (Jenkins, Travis-ci, CodeMagic) and actively use in my projects,</span><br /><span style="color: #800000;">     - I have used Python language and Keras, Tensorflow, ZeroMQ, Selenium, Flask, PyMongo, PySQL, Kivy and many libraries in many projects.</span><br /><span style="color: #800000;">     - I have been using C # language with Unity projects for a long time. I also worked with FormApplications as an extra,</span><br /><span style="color: #800000;">     - Dart language and Flutter Framework is my favorite choice for mobile application development recently,</span><br /><span style="color: #800000;">     - I usually use Javascript to build background and API applications with NodeJs (I usually use express, socketio and mongodb libraries)</span><br /><span style="color: #800000;">     - I worked with Arduino and RaspberryPi for hobby purpose and support of some of my friends' projects.</span><br /><span style="color: #800000;">     - In my job and most of the my projects, I always try to write my code with minimum dependency and layered architectures.</span></p>
+<p> </p>
 <p class="has-medium-font-size"><strong>SOME PROJECTS</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"fontSize":"medium"}--></p>
@@ -70,7 +70,7 @@ post_date: 2019-06-19 01:36:34
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
 <ul>
-<li><em class="has-medium-font-size">AIPunk Rocket Designer&nbsp;</em></li>
+<li><em class="has-medium-font-size">AIPunk Rocket Designer </em></li>
 </ul>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph {"fontSize":"medium"} --></p>
@@ -82,7 +82,7 @@ post_date: 2019-06-19 01:36:34
 </ul>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph {"fontSize":"medium"} --></p>
-<p class="has-medium-font-size">Altcoin stock exchange price predictor (Bittrex), It uses&nbsp; Artificial Neural Networks and predicts possible small price increases.</p>
+<p class="has-medium-font-size">Altcoin stock exchange price predictor (Bittrex), It uses  Artificial Neural Networks and predicts possible small price increases.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
 <ul>
@@ -90,7 +90,7 @@ post_date: 2019-06-19 01:36:34
 </ul>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph {"fontSize":"medium"} --></p>
-<p class="has-medium-font-size">1. project I worked on at Genetic Studios company (C#, Flask, MongoDB, RestAPI, Game Optimizations, )<br><a href="https://apps.apple.com/us/app/real-car-parking-2/id1366598056">https://apps.apple.com/us/app/real-car-parking-2/id1366598056&nbsp;</a><br><a href="https://play.google.com/store/apps/details?id=com.genetic.realcarparking2">https://play.google.com/store/apps/details?id=com.genetic.realcarparking2</a></p>
+<p class="has-medium-font-size">1. project I worked on at Genetic Studios company (C#, Flask, MongoDB, RestAPI, Game Optimizations, )<br /><a href="https://apps.apple.com/us/app/real-car-parking-2/id1366598056">https://apps.apple.com/us/app/real-car-parking-2/id1366598056 </a><br /><a href="https://play.google.com/store/apps/details?id=com.genetic.realcarparking2">https://play.google.com/store/apps/details?id=com.genetic.realcarparking2</a></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
 <ul>
@@ -98,7 +98,7 @@ post_date: 2019-06-19 01:36:34
 </ul>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph {"fontSize":"medium"} --></p>
-<p class="has-medium-font-size">2. project I worked on at Genetic Studios company (C#, NodeJs, MongoDB, SocketIO, Server Clustering, Docker, CI/CD, Jenkins, )<br><a href="https://play.google.com/store/apps/dev?id=8550478867825785622">Did not released yet !!!</a></p>
+<p class="has-medium-font-size">2. project I worked on at Genetic Studios company (C#, NodeJs, MongoDB, SocketIO, Server Clustering, Docker, CI/CD, Jenkins, )<br /><a href="https://play.google.com/store/apps/dev?id=8550478867825785622">Did not released yet !!!</a></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
 <ul>
@@ -133,11 +133,11 @@ post_date: 2019-06-19 01:36:34
 <p>"<em>Bot for a WebSite</em>", auto complete surveys (Python, Selenium, ZeroMQ)</p>
 <p>"<em>Pong game for Neural Networks</em>" (Python, Keras, Tensorflow, Kivy)</p>
 <p>"<em>Simple Web Service for my games</em>", (Pyton, Flask, RestAPI, MongoDB)</p>
-<p>"<em>Password Finder for Free VPNs</em>", (Python, lxml,&nbsp; json, soup)</p>
+<p>"<em>Password Finder for Free VPNs</em>", (Python, lxml,  json, soup)</p>
 <p>"<em>KuheylanVPN</em>", auto vpn connector for windows (C#, DotRas, FormApplication)</p>
-<p>&nbsp;"<em>Taboo Game</em>" (C#, FormApplication, SQLLite)</p>
+<p> "<em>Taboo Game</em>" (C#, FormApplication, SQLLite)</p>
 <p>"<em>Object Detect and Follow for an Arduino Vehicle</em>" (C#, AForge, EmguCV, C, Arduino, Socket communication)</p>
-<p>"<em>My Poems</em>", personel Android app&nbsp; (Java, Android Studio, SQLLite)</p>
+<p>"<em>My Poems</em>", personel Android app  (Java, Android Studio, SQLLite)</p>
 <p>"<em>Moduler Space Ship Battle</em>" (Unreal Enine 4, Blueprint scripting, Material scripting)</p>
 <p>"<em>Ant War Game</em>", simple two player card game (Unreal Engine 4, C++)</p>
 <p>"<em>Mancala, HeadBall, DxBall</em>" (C#, XNA Framework)"</p>
@@ -146,8 +146,6 @@ post_date: 2019-06-19 01:36:34
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"fontSize":"medium"} --></p>
 <p class="has-medium-font-size">Recently, I have been working with Procedural World Generation, 3D model generation and modification, Game development, Augmented Reality and Mobile Virtual Assitants.</p>
-<p><!-- wp:file {"id":204,"href":"https://bilalarikan.com/wp-content/uploads/2019/06/About-EN-–-Bilal-ARIKAN-1.pdf"} --></p>
-<div class="wp-block-file"><a href="https://bilalarikan.com/wp-content/uploads/2019/06/About-EN-–-Bilal-ARIKAN-1.pdf">Bilal_ARIKAN_CV_en.pdf</a><a href="https://bilalarikan.com/wp-content/uploads/2019/06/About-EN-–-Bilal-ARIKAN-1.pdf" class="wp-block-file__button" download="">Download</a></div>
 <p><!-- /wp:file --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
