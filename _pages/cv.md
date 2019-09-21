@@ -1,10 +1,10 @@
 ---
 ID: 126
-post_title: About (EN)
+post_title: 'Curriculum  Vitae (CV)'
 author: bilal1993arikan
 post_excerpt: ""
 layout: page
-permalink: https://bilalarikan.com/about-en/
+permalink: https://bilalarikan.com/cv/
 published: true
 post_date: 2019-06-19 01:36:34
 ---
