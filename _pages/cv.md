@@ -20,9 +20,9 @@ post_date: 2019-06-19 01:36:34
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td><a href="https://drive.google.com/file/d/1t_uOL7fzpQDvE2F-VkZxDEtmXBAbH_EH/">Pdf (Drive)</a></td></tr><tr><td><a href="https://mega.nz/#!X9x3CSSI!Fl_6lAEh0zGvqE3wce42N73a_4iUX8AmwdCfHMMsZk4">Pdf (Mega)</a></td></tr></tbody></table>
-<!-- /wp:table -->
+<!-- wp:html -->
+<table class="wp-block-table"><tbody class="has-medium-font-size"><tr><td><a href="https://drive.google.com/file/d/1t_uOL7fzpQDvE2F-VkZxDEtmXBAbH_EH/">Pdf (Drive)</a></td></tr><tr><td><a href="https://mega.nz/#!X9x3CSSI!Fl_6lAEh0zGvqE3wce42N73a_4iUX8AmwdCfHMMsZk4">Pdf (Mega)</a></td></tr></tbody></table>
+<!-- /wp:html -->
 
 <!-- wp:html -->
 <figure class="wp-block-pullquote is-style-default" style="border-color:#313131"><div class="has-text-color has-very-dark-gray-color"><p>      I joined the software world in 2011 in the last year of high school. ever since then, with a never-ending curiosity, I learned everything I had the opportunity to learn in the field of software. I still learn with the same curiosity.</p></div></figure>
